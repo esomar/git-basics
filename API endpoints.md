@@ -31,10 +31,12 @@ This example shows a `POST` endpoint for creating a new user in a system.
   "password": "securePassword123" 
 }
 ```
-Response:
-•	Status: 201 Created
-•	Body:
+***Response***:
+- Status: 201 Created
+- Body:
+```json
 {
   "id": "12345", 
   "created_at": "2024-11-04T14:00:00z" 
 }
+```
