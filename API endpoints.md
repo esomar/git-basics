@@ -2,7 +2,7 @@
 **Endpoint**: 
 [HTTP Method] /api/[resource]  
 **Description**:  
-[Brief description of what the endpoint does]
+[Brief description of what the endpoint does]  
 **Headers**:
 - `Authorization`: Bearer [token] (required if the endpoint is protected)
 - `Content-Type`: application/json
