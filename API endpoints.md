@@ -10,7 +10,7 @@
 **Request Body** (for `POST`, `PUT`, `PATCH` requests):
 ```json
 {
-  "field_name": "value" \\ Description of the field
+  "field_name": "value" 
 }
  
 
