@@ -13,7 +13,6 @@
   "field_name": "value" 
 }
 
-
 ### Example API Endpoint
 This example shows a `POST` endpoint for creating a new user in a system.
 **Endpoint**: POST /api/users
@@ -26,14 +25,14 @@ This example shows a `POST` endpoint for creating a new user in a system.
 **Request Body**:
 ```json
 {
-  "username": "exampleUser", // The unique username for the user
-  "email": "user@example.com", // The email address of the user
-  "password": "securePassword123" // The user's password
+  "username": "exampleUser", 
+  "email": "user@example.com", 
+  "password": "securePassword123" 
 }
 Response:
 •	Status: 201 Created
 •	Body:
 {
-  "id": "12345", // The unique identifier for the newly created user
-  "created_at": "2024-11-04T14:00:00z" // Timestamp of user creation
+  "id": "12345", 
+  "created_at": "2024-11-04T14:00:00z" 
 }
