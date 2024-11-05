@@ -1,3 +1,4 @@
+### API Endpoint Template
 **Endpoint**: [HTTP Method] /api/[resource]
 **Description**: [Brief description of what the endpoint does]
 **Headers**:
