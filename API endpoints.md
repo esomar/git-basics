@@ -12,9 +12,7 @@
 {
   "field_name": "value" 
 }
- 
 
----
 
 ### Example API Endpoint
 This example shows a `POST` endpoint for creating a new user in a system.
