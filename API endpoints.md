@@ -12,6 +12,7 @@
 {
   "field_name": "value" 
 }
+```
 
 ### Example API Endpoint
 This example shows a `POST` endpoint for creating a new user in a system.
@@ -29,6 +30,7 @@ This example shows a `POST` endpoint for creating a new user in a system.
   "email": "user@example.com", 
   "password": "securePassword123" 
 }
+```
 Response:
 •	Status: 201 Created
 •	Body:
